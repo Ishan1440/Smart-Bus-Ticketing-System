@@ -1,3 +1,0 @@
-# Smart-Bus-Ticketing-System
-
-
